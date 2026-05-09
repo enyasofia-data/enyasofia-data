@@ -1,17 +1,20 @@
 name: Generate Datas
 
+permissions: 
+  contents: write
+
 on:
   schedule:
-    # executa a cada 12 horas
     - cron: "0 */12 * * *" 
   workflow_dispatch:
 
 jobs:
   build:
-    name: Jobs to update datas
     runs-on: ubuntu-latest
     steps:
-      # Gera a cobrinha
+      - name: Checkout
+        uses: actions/checkout@v4 # Adicione este passo para garantir que o ambiente esteja pronto
+
       - name: generate github-contribution-grid-snake.svg
         uses: Platane/snk/svg-only@v3
         with:
@@ -20,9 +23,8 @@ jobs:
             dist/github-contribution-grid-snake.svg
             dist/github-contribution-grid-snake-dark.svg?palette=github-dark
 
-      # Push do conteúdo para a branch output
       - name: push github-contribution-grid-snake.svg to the output branch
-        uses: crazy-max/ghaction-github-pages@v3.1.0
+        uses: crazy-max/ghaction-github-pages@v4 # Atualizado para v4 (suporte Node 20+)
         with:
           target_branch: output
           build_dir: dist
