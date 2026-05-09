@@ -1,16 +1,298 @@
-## Hi there 👋
 
-<!--
-**enyasofia-data/enyasofia-data** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+<div align="center">
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=320&color=0:0D1117,25:4C1D95,55:A855F7,100:E879F9&text=ENYA%20SOFIA&fontColor=FFFFFF&fontSize=58&fontAlignY=38&desc=Future%20Data%20Analyst%20%7C%20Python%20%7C%20SQL%20%7C%20Power%20BI&descAlignY=58&descSize=22&animation=twinkling" />
+
+<br>
+
+<img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=700&size=25&duration=2800&pause=900&color=C084FC&center=true&vCenter=true&random=false&width=1000&lines=%E2%9C%A8+Transformando+dados+em+estrat%C3%A9gia+inteligente;%F0%9F%93%8A+Futura+Analista+de+Dados+J%C3%BAnior;%F0%9F%92%9C+Data+Visualization+%7C+Business+Intelligence;%F0%9F%9A%80+Python+%7C+SQL+%7C+Power+BI+%7C+Analytics;%E2%9A%A1+Criatividade+anal%C3%ADtica+com+mentalidade+data-driven" />
+
+<br> <br>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Data_Analytics-7C3AED?style=for-the-badge&labelColor=0D1117&color=7C3AED" />
+  
+  <img src="https://img.shields.io/badge/Future_Data_Analyst-9333EA?style=for-the-badge&labelColor=0D1117&color=9333EA" />
+</p>
+
+<br>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&color=7C3AED" />
+  
+  <img src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&color=7C3AED" />
+  
+  <img src="https://img.shields.io/badge/Gmail-0D1117?style=for-the-badge&color=7C3AED" />
+</p>
+</div>
+
+---
+
+<div align="center">
+
+# 🪻about_me.exe
+
+</div>
+
+<table>
+<tr>
+<td width="50%">
+
+```python
+class EnyaSofia:
+
+    def __init__(self):
+        self.role = "Future Data Analyst"
+        self.language = ["Python", "SQL"]
+        self.focus = [
+            "Data Analysis",
+            "Business Intelligence",
+            "Data Visualization",
+            "Dashboard Development",
+            "ETL Processes"
+        ]
+
+    def mindset(self):
+        return "Turning data into strategic decisions"
+```
+
+<h2 align="center">
+  💟 Sobre mim
+</h2>
+
+<p align="center">
+  Apaixonada por tecnologia, dados e visualização estratégica.
+</p>
+
+<p align="center">
+Data Analytics • Business Intelligence • Data Visualization
+</p>
+
+<p align="center">
+Storytelling com Dados • Dashboards • Automação
+</p>
+
+<br>
+
+<div align="center">
+
+| 📚 Atualmente estudando | ✨ Objetivo |
+|:---:|:---:|
+| Python • SQL • Power BI | Transformar dados em decisões inteligentes |
+| ETL • Estatística • Modelagem | Conquistar minha primeira oportunidade em dados |
+
+</div>
+
+<td width="50%" align="center">
+
+<img src="" width="100%">
+
+<br><br>
+
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=500&size=22&pause=3000&color=C084FC&center=true&vCenter=true&multiline=true&width=450&height=100&lines=Turning+data+into+strategic+decisions;Future+Data+Analyst+%F0%9F%92%9C;Python+%E2%80%A2+SQL+%E2%80%A2+Power+BI" />
+
+</td>
+
+<br>
+</tr>
+</table>
+
+---
+
+<div align="center">
+
+# ⚡ TECH ECOSYSTEM
+
+<img src="https://skillicons.dev/icons?i=python,postgres,mysql,sqlite,git,github,vscode,jupyter&theme=dark" />
+
+</div>
+
+<br>
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/Python-111111?style=for-the-badge&logo=python&logoColor=C084FC" />
+<img src="https://img.shields.io/badge/SQL-111111?style=for-the-badge&logo=sqlite&logoColor=C084FC" />
+<img src="https://img.shields.io/badge/Power_BI-111111?style=for-the-badge&logo=powerbi&logoColor=C084FC" />
+<img src="https://img.shields.io/badge/Pandas-111111?style=for-the-badge&logo=pandas&logoColor=C084FC" />
+<img src="https://img.shields.io/badge/NumPy-111111?style=for-the-badge&logo=numpy&logoColor=C084FC" />
+<img src="https://img.shields.io/badge/Excel-111111?style=for-the-badge&logo=microsoftexcel&logoColor=C084FC" />
+<img src="https://img.shields.io/badge/Plotly-111111?style=for-the-badge&logo=plotly&logoColor=C084FC" />
+<img src="https://img.shields.io/badge/Jupyter-111111?style=for-the-badge&logo=jupyter&logoColor=C084FC" />
+<img src="https://img.shields.io/badge/Git-111111?style=for-the-badge&logo=git&logoColor=C084FC" />
+<img src="https://img.shields.io/badge/GitHub-111111?style=for-the-badge&logo=github&logoColor=C084FC" />
+
+</div>
+
+---
+
+<div align="center">
+
+# 📊 GITHUB INTELLIGENCE DASHBOARD
+
+</div>
+
+<div align="center">
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=enyasofia-data&show_icons=true&hide_border=true&bg_color=0D1117&title_color=C084FC&icon_color=A855F7&text_color=E9D5FF&ring_color=C084FC&count_private=true&include_all_commits=true" />
+
+<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=enyasofia-data&theme=midnight-purple&hide_border=true&background=0D1117&ring=C084FC&fire=A855F7&currStreakLabel=C084FC" />
+
+<br><br>
+
+<img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=enyasofia-data&layout=compact&hide_border=true&bg_color=0D1117&title_color=C084FC&text_color=E9D5FF" />
+
+</div>
+
+<br>
+
+<div align="center">
+
+<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=enyasofia-data&bg_color=0D1117&hide_border=true&line=C084FC&point=FFFFFF&color=A855F7&area=true" />
+
+</div>
+
+<br>
+
+<div align="center">
+
+<img width="100%" src="https://github-profile-trophy.vercel.app/?username=enyasofia-data&theme=algolia&no-frame=true&no-bg=true&column=7&margin-w=10" />
+
+</div>
+
+---
+
+<div align="center">
+
+# 🧠 DATA SKILLS MATRIX
+
+</div>
+
+<div align="center">
+
+| 💡 Área                  | 🚀 Tecnologias                         |
+| ------------------------ | -------------------------------------- |
+| 📈 Data Visualization    | Power BI, Plotly, Matplotlib, Seaborn  |
+| 🐍 Data Analysis         | Python, Pandas, NumPy                  |
+| 🗄️ Databases            | SQL, PostgreSQL, MySQL, SQLite         |
+| ⚙️ Tools                 | Git, GitHub, VS Code, Jupyter          |
+| 📊 Business Intelligence | Dashboards, KPIs, Storytelling         |
+| 🔄 Data Processing       | ETL, Cleaning, Pipelines               |
+| 🧠 Analytics             | Insights, Trends, Performance Analysis |
+
+</div>
+
+---
+
+<div align="center">
+
+# 🚀 FEATURED PROJECTS
+
+</div>
+
+<div align="center">
+
+<a href="https://github.com/enyasofia-data/PROJETO1">
+<img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=enyasofia-data&repo=PROJETO1&hide_border=true&bg_color=0D1117&title_color=C084FC&text_color=E9D5FF&icon_color=A855F7" />
+</a>
+
+<a href="https://github.com/enyasofia-data/PROJETO2">
+<img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=enyasofia-data&repo=PROJETO2&hide_border=true&bg_color=0D1117&title_color=C084FC&text_color=E9D5FF&icon_color=A855F7" />
+</a>
+
+<br><br>
+
+<a href="https://github.com/enyasofia-data/PROJETO3">
+<img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=enyasofia-data&repo=PROJETO3&hide_border=true&bg_color=0D1117&title_color=C084FC&text_color=E9D5FF&icon_color=A855F7" />
+</a>
+
+<a href="https://github.com/enyasofia-data/PROJETO4">
+<img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=enyasofia-data&repo=PROJETO4&hide_border=true&bg_color=0D1117&title_color=C084FC&text_color=E9D5FF&icon_color=A855F7" />
+</a>
+
+</div>
+
+---
+
+<div align="center">
+
+# 🌱 CURRENT LEARNING PATH
+
+</div>
+
+<div align="center">
+
+```mermaid
+mindmap
+  root((Data Analyst))
+    Python
+      Pandas
+      NumPy
+      Automation
+    SQL
+      PostgreSQL
+      Queries
+      Data Modeling
+    BI
+      Power BI
+      Dashboards
+      KPIs
+    Analytics
+      Statistics
+      ETL
+      Storytelling
+```
+
+</div>
+
+---
+
+<div align="center">
+
+# 🐍 CONTRIBUTION SNAKE
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/enyasofia-data/enyasofia-data/output/github-contribution-grid-snake-dark.svg">
+  <img alt="snake animation" src="https://raw.githubusercontent.com/enyasofia-data/enyasofia-data/output/github-contribution-grid-snake-dark.svg">
+</picture>
+
+</div>
+
+---
+
+<div align="center">
+
+# 💜 LET'S CONNECT
+
+<a href="https://linkedin.com/in/SEUNOME">
+<img src="https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=C084FC" />
+</a>
+
+<a href="mailto:seuemail@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-0D1117?style=for-the-badge&logo=gmail&logoColor=C084FC" />
+</a>
+
+<a href="https://discord.com/users/SEUNOME">
+<img src="https://img.shields.io/badge/Discord-0D1117?style=for-the-badge&logo=discord&logoColor=C084FC" />
+</a>
+
+<a href="https://instagram.com/SEUNOME">
+<img src="https://img.shields.io/badge/Instagram-0D1117?style=for-the-badge&logo=instagram&logoColor=C084FC" />
+</a>
+
+<br><br>
+
+<img src="https://readme-jokes.vercel.app/api?theme=tokyonight" alt="Jokes Card" />
+
+<br><br>
+
+> ✨ *"Data is the new language of intelligent decisions."*
+
+> 💜 *"Elegância visual + inteligência analítica."*
+
+</div>
+
+<br>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=180&section=footer&color=0:0D1117,35:4C1D95,65:A855F7,100:E879F9" />
