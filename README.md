@@ -85,12 +85,12 @@ Storytelling com Dados • Dashboards • Automação
 </div>
 
 <td width="50%" align="center">
-
-<img src="" width="100%">
-
+  
+<br><br>
 <br><br>
 
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=500&size=22&pause=3000&color=C084FC&center=true&vCenter=true&multiline=true&width=450&height=100&lines=Turning+data+into+strategic+decisions;Future+Data+Analyst+%F0%9F%92%9C;Python+%E2%80%A2+SQL+%E2%80%A2+Power+BI" />
+
+<img src="girl.gif" width="100%">
 
 </td>
 
@@ -116,10 +116,7 @@ Storytelling com Dados • Dashboards • Automação
 <img src="https://img.shields.io/badge/SQL-111111?style=for-the-badge&logo=sqlite&logoColor=C084FC" />
 <img src="https://img.shields.io/badge/Power_BI-111111?style=for-the-badge&logo=powerbi&logoColor=C084FC" />
 <img src="https://img.shields.io/badge/Pandas-111111?style=for-the-badge&logo=pandas&logoColor=C084FC" />
-<img src="https://img.shields.io/badge/NumPy-111111?style=for-the-badge&logo=numpy&logoColor=C084FC" />
 <img src="https://img.shields.io/badge/Excel-111111?style=for-the-badge&logo=microsoftexcel&logoColor=C084FC" />
-<img src="https://img.shields.io/badge/Plotly-111111?style=for-the-badge&logo=plotly&logoColor=C084FC" />
-<img src="https://img.shields.io/badge/Jupyter-111111?style=for-the-badge&logo=jupyter&logoColor=C084FC" />
 <img src="https://img.shields.io/badge/Git-111111?style=for-the-badge&logo=git&logoColor=C084FC" />
 <img src="https://img.shields.io/badge/GitHub-111111?style=for-the-badge&logo=github&logoColor=C084FC" />
 
@@ -135,29 +132,13 @@ Storytelling com Dados • Dashboards • Automação
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=enyasofia-data&show_icons=true&hide_border=true&bg_color=0D1117&title_color=C084FC&icon_color=A855F7&text_color=E9D5FF&ring_color=C084FC&count_private=true&include_all_commits=true" />
 
 <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=enyasofia-data&theme=midnight-purple&hide_border=true&background=0D1117&ring=C084FC&fire=A855F7&currStreakLabel=C084FC" />
 
 <br><br>
 
-<img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=enyasofia-data&layout=compact&hide_border=true&bg_color=0D1117&title_color=C084FC&text_color=E9D5FF" />
-
-</div>
-
-<br>
-
-<div align="center">
 
 <img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=enyasofia-data&bg_color=0D1117&hide_border=true&line=C084FC&point=FFFFFF&color=A855F7&area=true" />
-
-</div>
-
-<br>
-
-<div align="center">
-
-<img width="100%" src="https://github-profile-trophy.vercel.app/?username=enyasofia-data&theme=algolia&no-frame=true&no-bg=true&column=7&margin-w=10" />
 
 </div>
 
@@ -173,10 +154,10 @@ Storytelling com Dados • Dashboards • Automação
 
 | 💡 Área                  | 🚀 Tecnologias                         |
 | ------------------------ | -------------------------------------- |
-| 📈 Data Visualization    | Power BI, Plotly, Matplotlib, Seaborn  |
-| 🐍 Data Analysis         | Python, Pandas, NumPy                  |
-| 🗄️ Databases            | SQL, PostgreSQL, MySQL, SQLite         |
-| ⚙️ Tools                 | Git, GitHub, VS Code, Jupyter          |
+| 📈 Data Visualization    | Power BI, Looker Studio                |
+| 🐍 Data Analysis         | Python, Pandas                         |
+| 🗄️ Databases            | SQL, PostgreSQL, MySQL, SQLite          |
+| ⚙️ Tools                 | Git, GitHub, VS Code                   |
 | 📊 Business Intelligence | Dashboards, KPIs, Storytelling         |
 | 🔄 Data Processing       | ETL, Cleaning, Pipelines               |
 | 🧠 Analytics             | Insights, Trends, Performance Analysis |
@@ -228,7 +209,6 @@ mindmap
   root((Data Analyst))
     Python
       Pandas
-      NumPy
       Automation
     SQL
       PostgreSQL
@@ -263,33 +243,14 @@ mindmap
 
 <div align="center">
 
-# 💜 LET'S CONNECT
-
-<a href="https://linkedin.com/in/SEUNOME">
-<img src="https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=C084FC" />
-</a>
-
-<a href="mailto:seuemail@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-0D1117?style=for-the-badge&logo=gmail&logoColor=C084FC" />
-</a>
-
-<a href="https://discord.com/users/SEUNOME">
-<img src="https://img.shields.io/badge/Discord-0D1117?style=for-the-badge&logo=discord&logoColor=C084FC" />
-</a>
-
-<a href="https://instagram.com/SEUNOME">
-<img src="https://img.shields.io/badge/Instagram-0D1117?style=for-the-badge&logo=instagram&logoColor=C084FC" />
-</a>
-
 <br><br>
 
-<img src="https://readme-jokes.vercel.app/api?theme=tokyonight" alt="Jokes Card" />
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Quote Card" />
 
 <br><br>
 
 > ✨ *"Data is the new language of intelligent decisions."*
 
-> 💜 *"Elegância visual + inteligência analítica."*
 
 </div>
 
