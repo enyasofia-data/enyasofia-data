@@ -19,11 +19,18 @@
 <br>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&color=7C3AED" />
-  
+
+  <a href="www.linkedin.com/in/enya-arruda" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&color=7C3AED"  />
+  </a>
+
+   <a href="https://github.com/enyasofia-data" target="_blank">
   <img src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&color=7C3AED" />
-  
+   </a>
+
+  <a href="https://github.com/enyasofia-data" target="_blank">
   <img src="https://img.shields.io/badge/Gmail-0D1117?style=for-the-badge&color=7C3AED" />
+  </a>
 </p>
 </div>
 
