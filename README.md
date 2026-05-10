@@ -43,7 +43,7 @@
 </div>
 
 ```python
-class EnyaSofia:
+ class EnyaSofia:
 
     def __init__(self):
         self.role = "Future Data Analyst"
@@ -120,14 +120,6 @@ C#, ASP.NET, HTML, CSS, JavaScript e Bootstrap.
 
 
 
-
-
-
-
-
-
-
-
 <div align="center">
 
 # 📊 ANALYTICS STACK
@@ -163,8 +155,7 @@ C#, ASP.NET, HTML, CSS, JavaScript e Bootstrap.
 
 <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=enyasofia-data&theme=midnight-purple&hide_border=true&background=0D1117&ring=C084FC&fire=A855F7&currStreakLabel=C084FC" />
 
-<br><br>
-
+<br>
 
 <img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=enyasofia-data&bg_color=0D1117&hide_border=true&line=C084FC&point=FFFFFF&color=A855F7&area=true" />
 
