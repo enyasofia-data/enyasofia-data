@@ -107,9 +107,52 @@ Storytelling com Dados • Dashboards • Automação
 
 ---
 
+
 <div align="center">
 
-# ⚡ TECH ECOSYSTEM
+# 🌐 DEVELOPMENT BACKGROUND
+
+<img src="https://skillicons.dev/icons?i=cs,dotnet,html,css,js,bootstrap&theme=dark" />
+
+</div>
+<br>
+
+<div align="center">
+<img src="https://img.shields.io/badge/C%23-111111?style=for-the-badge&logo=csharp&logoColor=C084FC" />
+<img src="https://img.shields.io/badge/ASP.NET-111111?style=for-the-badge&logo=dotnet&logoColor=C084FC" />
+<img src="https://img.shields.io/badge/HTML5-111111?style=for-the-badge&logo=html5&logoColor=C084FC" />
+<img src="https://img.shields.io/badge/CSS3-111111?style=for-the-badge&logo=css3&logoColor=C084FC" />
+<img src="https://img.shields.io/badge/JavaScript-111111?style=for-the-badge&logo=javascript&logoColor=C084FC" />
+<img src="https://img.shields.io/badge/Bootstrap-111111?style=for-the-badge&logo=bootstrap&logoColor=C084FC" />
+</div>
+
+<p align="center">
+Experiência prévia com desenvolvimento web e aplicações utilizando
+C#, ASP.NET, HTML, CSS, JavaScript e Bootstrap.
+</p>
+
+<p align="center">
+💜 Atualmente direcionando minha carreira para Data Analytics e Business Intelligence.
+</p>
+
+</div>
+
+
+---
+
+
+
+
+
+
+
+
+
+
+
+<div align="center">
+
+# 📊 ANALYTICS STACK
 
 <img src="https://skillicons.dev/icons?i=python,postgres,mysql,sqlite,git,github,vscode,jupyter&theme=dark" />
 
@@ -252,7 +295,11 @@ mindmap
 
 <br><br>
 
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Quote Card" />
+<div align="center">
+
+☕ powered by coffee & curiosity
+
+</div>
 
 <br><br>
 
