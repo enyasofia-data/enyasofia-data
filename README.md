@@ -42,16 +42,13 @@
 
 </div>
 
-<table>
-<tr>
-<td width="50%">
-
 ```python
 class EnyaSofia:
 
     def __init__(self):
         self.role = "Future Data Analyst"
         self.language = ["Python", "SQL"]
+
         self.focus = [
             "Data Analysis",
             "Business Intelligence",
@@ -61,53 +58,34 @@ class EnyaSofia:
         ]
 
     def mindset(self):
-        return "Turning data into strategic decisions"
-```
+        return "Turning data into strategic decisions 💜"
 
-<h2 align="center">
-  💟 Sobre mim
-</h2>
+````
+<h2 align="center"> 💟 Sobre mim </h2> 
 
-<p align="center">
-  Apaixonada por tecnologia, dados e visualização estratégica.
-</p>
-
-<p align="center">
-Data Analytics • Business Intelligence • Data Visualization
-</p>
-
-<p align="center">
-Storytelling com Dados • Dashboards • Automação
-</p>
-
-<br>
+<p align="center"> Apaixonada por tecnologia, dados e visualização estratégica. </p>
+<p align="center"> Data Analytics • Business Intelligence • Data Visualization </p> 
+<p align="center"> Storytelling com Dados • Dashboards • Automação </p> 
+<br> 
 
 <div align="center">
 
 | 📚 Atualmente estudando | ✨ Objetivo |
-|:---:|:---:|
+| :--- | :--- |
 | Python • SQL • Power BI | Transformar dados em decisões inteligentes |
 | ETL • Estatística • Modelagem | Conquistar minha primeira oportunidade em dados |
 
 </div>
 
-<td width="50%" align="center">
+<br> 
+
+<div align="center"> 
   
-<br><br>
-<br><br>
-
-
-<img src="girl.gif" width="100%">
-
-</td>
-
-<br>
-</tr>
-</table>
+<img src="girl.gif" width="50%"> 
+</div>
+<br> 
 
 ---
-
-
 <div align="center">
 
 # 🌐 DEVELOPMENT BACKGROUND
