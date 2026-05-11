@@ -187,29 +187,19 @@ C#, ASP.NET, HTML, CSS, JavaScript e Bootstrap.
 
 <div align="center">
 
-# 🚀 FEATURED PROJECTS
+# 🚧 PROJECT IN DEVELOPMENT
 
-</div>
+<br>
 
-<div align="center">
+<img width="60%" src="infobairroprot.png" />
 
-<a href="https://github.com/enyasofia-data/PROJETO1">
-<img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=enyasofia-data&repo=PROJETO1&hide_border=true&bg_color=0D1117&title_color=C084FC&text_color=E9D5FF&icon_color=A855F7" />
-</a>
+<br>
 
-<a href="https://github.com/enyasofia-data/PROJETO2">
-<img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=enyasofia-data&repo=PROJETO2&hide_border=true&bg_color=0D1117&title_color=C084FC&text_color=E9D5FF&icon_color=A855F7" />
-</a>
+💚 Projeto atualmente em desenvolvimento
 
-<br><br>
-
-<a href="https://github.com/enyasofia-data/PROJETO3">
-<img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=enyasofia-data&repo=PROJETO3&hide_border=true&bg_color=0D1117&title_color=C084FC&text_color=E9D5FF&icon_color=A855F7" />
-</a>
-
-<a href="https://github.com/enyasofia-data/PROJETO4">
-<img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=enyasofia-data&repo=PROJETO4&hide_border=true&bg_color=0D1117&title_color=C084FC&text_color=E9D5FF&icon_color=A855F7" />
-</a>
+<p align="center">
+Dashboard focado visualização estratégica e análise de dados urbanos.
+</p>
 
 </div>
 
