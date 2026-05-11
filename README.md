@@ -189,8 +189,6 @@ C#, ASP.NET, HTML, CSS, JavaScript e Bootstrap.
 
 # 🚧 PROJECT IN DEVELOPMENT
 
-<br>
-
 <img width="60%" src="infobairroprot.png" />
 
 <br>
