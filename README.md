@@ -6,7 +6,7 @@
 
 <br>
 
-<img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=700&size=25&duration=2800&pause=900&color=C084FC&center=true&vCenter=true&random=false&width=1000&lines=%E2%9C%A8+Transformando+dados+em+estrat%C3%A9gia+inteligente;%F0%9F%93%8A+Futura+Analista+de+Dados+J%C3%BAnior;%F0%9F%92%9C+Data+Visualization+%7C+Business+Intelligence;%F0%9F%9A%80+Python+%7C+SQL+%7C+Power+BI+%7C+Analytics;%E2%9A%A1+Criatividade+anal%C3%ADtica+com+mentalidade+data-driven" />
+<img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=700&size=25&duration=2800&pause=900&color=C084FC&center=true&vCenter=true&random=false&width=1000&lines=%E2%9C%A8+Transformando+dados+em+estrat%C3%A9gia+inteligente;%F0%9F%93%8A+Futura+Analista+de+Dados;%F0%9F%92%9C+Data+Visualization+%7C+Business+Intelligence;%F0%9F%9A%80+Python+%7C+SQL+%7C+Power+BI+%7C+Analytics;%E2%9A%A1+Criatividade+anal%C3%ADtica+com+mentalidade+data-driven" />
 
 <br> <br>
 
